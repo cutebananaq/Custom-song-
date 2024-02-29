@@ -1,0 +1,161 @@
+# use_bpm 150
+use_synth :piano
+
+sample "C:/Users/kaylah_jauregui/Desktop/suits intro 3.wav"
+sleep 50
+
+4.times do
+  play :fs5
+  play :cs5
+  play :a4
+  sleep 1
+  play :fs5
+  play :cs5
+  play :a4
+  sleep 1
+  play :fs5
+  play :cs5
+  play :a4
+  sleep 1
+end
+
+4.times do
+  play :e5
+  play :cs5
+  play :a4
+  sleep 1
+  play :e5
+  play :cs5
+  play :a4
+  sleep 1
+  play :e5
+  play :cs5
+  play :a4
+  sleep 1
+end
+
+4.times do
+  play :d4
+  play :fs4
+  play :a4
+  sleep 1
+  play :d4
+  play :fs4
+  play :a4
+  sleep 1
+  play :d4
+  play :fs4
+  play :a4
+  sleep 1
+end
+2.times do
+  play :cs4
+  play :fs4
+  play :g4
+  sleep 1
+  play :d4
+  play :fs4
+  play :a4
+  sleep 1
+  play :d4
+  play :fs4
+  play :a4
+  sleep 1
+end
+2.times do
+  play :cs4
+  play :f4
+  play :g4
+  sleep 1
+  play :d4
+  play :f4
+  play :a4
+  sleep 1
+  play :d4
+  play :f4
+  play :a4
+  sleep 1
+end
+4.times do
+  play :fs5
+  play :cs5
+  play :a4
+  sleep 1
+  play :fs5
+  play :cs5
+  play :a4
+  sample :drum_heavy_kick
+  sample :drum_snare_soft
+  sample :drum_cymbal_pedal
+  sleep 1
+  play :fs5
+  play :cs5
+  play :a4
+  sleep 1
+end
+
+
+4.times do
+  play :e5
+  play :cs5
+  play :a4
+  sleep 1
+  sample :drum_heavy_kick
+  sample :drum_snare_soft
+  sample :drum_cymbal_pedal
+  play :e5
+  play :cs5
+  play :a4
+  sleep 1
+  play :e5
+  play :cs5
+  play :a4
+  sleep 1
+end
+
+4.times do
+  play :d4
+  play :fs4
+  play :a4
+  sleep 1
+  play :d4
+  play :fs4
+  play :a4
+  sleep 1
+  play :d4
+  play :fs4
+  play :a4
+  sleep 1
+end
+2.times do
+  play :cs4
+  play :f4
+  play :g4
+  sleep 1
+  play :d4
+  play :f4
+  play :a4
+  sleep 1
+  play :d4
+  play :f4
+  play :a4
+  sleep 1
+end
+2.times do
+  play :cs4
+  play :f4
+  play :g4
+  sleep 1
+  play :d4
+  play :f4
+  play :a4
+  sleep 1
+  play :d4
+  play :f4
+  play :a4
+  sleep 1
+end
+sample :drum_roll
+sample "C:/Users/kaylah_jauregui/Desktop/suits intro 4.wav"
+
+sleep 50
